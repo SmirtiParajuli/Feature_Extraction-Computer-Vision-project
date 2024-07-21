@@ -1,4 +1,6 @@
-*******************************Image Segmentation and Feature Extraction GUI***************************************
+
+    ********************************** Image Segmentation and Feature Extraction GUI ***************************************
+
 Overview:
 
 	This project is a graphical user interface (GUI) application designed for image segmentation and feature extraction. The application enables users to load images,
